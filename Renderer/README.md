@@ -33,3 +33,19 @@ https://github.com/houzaj/OpenGL_AniPopGame.git
 # Graphy 学习并研究MIT图形学公开资源（代码6-837）
 
 https://github.com/RupengWang/Graphy.git
+
+# 利用OpenGL实现人体动作模拟的作业。
+
+https://github.com/iphkwan/OpenGLSkeletonProject
+
+# 计算机图形学机器人3D建模
+
+https://github.com/StrickYan/Computer-Graphics-Robot-3D-Modeling
+
+# MIPS-sc
+
+Qt实现的图形化界面MIPS汇编指令的汇编器/反汇编器/模拟器
+
+# Bubble Clicker - 戳泡泡游戏
+
+https://github.com/abgnwl/BubbleClicker
