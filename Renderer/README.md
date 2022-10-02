@@ -49,3 +49,11 @@ Qt实现的图形化界面MIPS汇编指令的汇编器/反汇编器/模拟器
 # Bubble Clicker - 戳泡泡游戏
 
 https://github.com/abgnwl/BubbleClicker
+
+# 交互式计算机图形学
+
+https://github.com/AlphaBoom/StudyCG
+
+# 计算机图形学 犹他（UtahCup）茶壶
+
+https://github.com/immango/UtahCup
